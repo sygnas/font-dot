@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'dot';
   src:
-    url('fonts/dot.ttf?nkm3pd') format('truetype'),
-    url('fonts/dot.woff?nkm3pd') format('woff'),
-    url('fonts/dot.svg?nkm3pd#dot') format('svg');
+    url('fonts/dot.ttf?58cpju') format('truetype'),
+    url('fonts/dot.woff?58cpju') format('woff'),
+    url('fonts/dot.svg?58cpju#dot') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -39,16 +39,16 @@
 .i-dot-angle-r-12:before {
   content: "\e904";
 }
-.i-dot-arow-t-12:before {
+.i-dot-arrow-t-12:before {
   content: "\e905";
 }
-.i-dot-arow-b-12:before {
+.i-dot-arrow-b-12:before {
   content: "\e906";
 }
-.i-dot-arow-l-12:before {
+.i-dot-arrow-l-12:before {
   content: "\e907";
 }
-.i-dot-arow-r-12:before {
+.i-dot-arrow-r-12:before {
   content: "\e908";
 }
 .i-dot-timer-16:before {
@@ -66,15 +66,15 @@
 .i-dot-angle-r-16:before {
   content: "\e90d";
 }
-.i-dot-arow-t-16:before {
+.i-dot-arrow-t-16:before {
   content: "\e90e";
 }
-.i-dot-arow-b-16:before {
+.i-dot-arrow-b-16:before {
   content: "\e90f";
 }
-.i-dot-arow-l-16:before {
+.i-dot-arrow-l-16:before {
   content: "\e910";
 }
-.i-dot-arow-r-16:before {
+.i-dot-arrow-r-16:before {
   content: "\e911";
 }
