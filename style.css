@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'dot';
   src:
-    url('fonts/dot.ttf?loraks') format('truetype'),
-    url('fonts/dot.woff?loraks') format('woff'),
-    url('fonts/dot.svg?loraks#dot') format('svg');
+    url('fonts/dot.ttf?gzfvbe') format('truetype'),
+    url('fonts/dot.woff?gzfvbe') format('woff'),
+    url('fonts/dot.svg?gzfvbe#dot') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="i-dot"], [class*=" i-dot"] {
+[class^="i-dot-"], [class*=" i-dot-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'dot' !important;
   speak: none;
@@ -24,21 +24,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.i-dottimes:before {
+.i-dot-times:before {
   content: "\e900";
 }
-.i-dotangle-r:before {
+.i-dot-angle-r:before {
   content: "\e901";
 }
-.i-dotangle-l:before {
+.i-dot-angle-l:before {
   content: "\e902";
 }
-.i-dotangle-t:before {
+.i-dot-angle-t:before {
   content: "\e903";
 }
-.i-dotarrow-l:before {
+.i-dot-arrow-l:before {
   content: "\e904";
 }
-.i-dotarrow-r:before {
+.i-dot-arrow-r:before {
   content: "\e905";
 }
